@@ -1,0 +1,19 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.cpython-*.pyc
+
+# Streamlit
+.streamlit/
+
+# Cache & logs
+.cache/
+*.log
+
+# OS & Editor
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+.vscode/
+.idea/
